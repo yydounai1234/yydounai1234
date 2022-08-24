@@ -1,9 +1,9 @@
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=yydounai1234&show_icons=true&theme=tokyonight&line_height=27">
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=yydounai1234&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+<p style="display:flex;">
+  <img src = "https://github-readme-stats.vercel.app/api?username=yydounai1234&show_icons=true&theme=tokyonight&line_height=25" style="width:60%;margin-right: 10px">
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=yydounai1234&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" style="width:35%" />
 </p>
 <p align = "center">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yydounai1234&theme=radical">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yydounai1234&theme=radical" style="width: 70%">
 </p>
 <h2 align="center">Technology Stack <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p align="center">
@@ -14,4 +14,3 @@
 <img src="https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=vue.js" />
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
 </p>
-
