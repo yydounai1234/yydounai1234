@@ -1,3 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yydounai1234&show_icons=true&theme=radical&?count_private=true)
-<br/>
-[![trophy](https://github-profile-trophy.vercel.app/?username=yydounai1234&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=yydounai1234&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yydounai1234&theme=radical">
+</p>
