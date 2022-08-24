@@ -1,6 +1,6 @@
-<p style="display:flex;justify-content:space-between">
-  <img src = "https://github-readme-stats.vercel.app/api?username=yydounai1234&show_icons=true&theme=tokyonight&line_height=25" style="width:45%;height: 200px">
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=yydounai1234&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" style="width:45%;height: 200px" />
+<p>
+  <img src = "https://github-readme-stats.vercel.app/api?username=yydounai1234&show_icons=true&theme=tokyonight&line_height=25" style="width:50%">
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=yydounai1234&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" style="width:50%" />
 </p>
 <h2 align="center">Technology Stack <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p align="center">
