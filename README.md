@@ -1,4 +1,4 @@
-<p>
+<p style="display:flex">
   <img src = "https://github-readme-stats.vercel.app/api?username=yydounai1234&show_icons=true&theme=tokyonight&line_height=25" style="width:50%">
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=yydounai1234&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" style="width:50%" />
 </p>
