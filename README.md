@@ -1,6 +1,5 @@
 <p style="display:flex">
   <img src="https://github-readme-stats.vercel.app/api?username=yydounai1234&show_icons=true&theme=tokyonight&line_height=25" style="width:45%">
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yydounai1234&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" style="width:45%" />
 </p>
 <h2 align="center">Technology Stack</h2>
