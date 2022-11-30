@@ -11,3 +11,6 @@
 <img style="height: 30px" src="https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=vue.js" />
 <img style="height: 30px" src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
 </p>
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=yydounai1234&theme=redical">
+</p>
