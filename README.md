@@ -12,5 +12,5 @@
 <img style="height: 30px" src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
 </p>
 <p align = "center">
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yydounai1234">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yydounai1234&theme=high-contrast">
 </p>
